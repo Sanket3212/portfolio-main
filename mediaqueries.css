@@ -134,6 +134,13 @@
   }
   
 }
+@media screen and (max-width: 500px){
+  #back-color{
+    width: 180px;
+    height: 180px;
+    left: 83px;
+    /* right:20px; */
+  }
 
 @media screen and (max-width: 400px){
   #back-color{
