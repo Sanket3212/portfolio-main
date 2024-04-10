@@ -192,15 +192,17 @@
     /* right:20px; */
   }
 }
-@media screen and (max-width: 354px){
+@media screen and (max-width: 356px){
   #back-color{
     width: 200px;
     height: 200px;
-    left: 80px;
+    left: 77px;
     /* right:20px; */
   }
 }
 @media screen and (max-width: 350px){
+  
+
   #back-color{
     display: none;
   }
